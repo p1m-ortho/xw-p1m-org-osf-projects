@@ -1,4 +1,4 @@
-# Our Projects at Open Science Framework (OSF)
+# P1M.ORG Projects @ Open Science Framework (OSF)
 
 | Title | Description | Status | DOI | 
 |-------|-------------|--------|-----|
